@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+    id 'idea'
+}
+
+group 'com.mzh'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_java', version: '5.1.1'
+    implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_core', version: '5.1.1'
+    implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_tcp', version: '5.1.1'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

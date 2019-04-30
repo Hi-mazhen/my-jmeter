@@ -24,7 +24,7 @@ import java.net.Socket;
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈〉
+ * 〈测试tcp，参考大神〉
  *
  * @author hthn
  * @create 2019-04-29

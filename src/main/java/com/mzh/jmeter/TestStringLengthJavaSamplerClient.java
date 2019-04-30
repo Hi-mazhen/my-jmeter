@@ -20,7 +20,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈〉
+ * 〈测试字符串长度，参考大神〉
  *
  * @author hthn
  * @create 2019-04-22

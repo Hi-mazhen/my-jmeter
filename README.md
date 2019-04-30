@@ -8,15 +8,25 @@
 
 返回
 
-`/usr/local/Cellar/jmeter/5.1.1/bin/jmeter
- /usr/local/Cellar/jmeter/5.1.1/libexec/backups/ (20 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/bin/ (179 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/docs/ (2019 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/extras/ (20 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ (141 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/licenses/ (47 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/printable_docs/ (71 files)
- /usr/local/Cellar/jmeter/5.1.1/libexec/serveragent/ (13 files)`
+`
+/usr/local/Cellar/jmeter/5.1.1/bin/jmeter 
+
+ /usr/local/Cellar/jmeter/5.1.1/libexec/backups/ (20 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/bin/ (179 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/docs/ (2019 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/extras/ (20 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ (141 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/licenses/ (47 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/printable_docs/ (71 files) 
+ 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/serveragent/ (13 files) 
+ `
 
 打开安装文件夹
 

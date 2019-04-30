@@ -8,25 +8,16 @@
 
 返回
 
-`
-/usr/local/Cellar/jmeter/5.1.1/bin/jmeter 
-
- /usr/local/Cellar/jmeter/5.1.1/libexec/backups/ (20 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/bin/ (179 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/docs/ (2019 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/extras/ (20 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ (141 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/licenses/ (47 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/printable_docs/ (71 files) 
- 
- /usr/local/Cellar/jmeter/5.1.1/libexec/serveragent/ (13 files) 
- `
+``/usr/local/Cellar/jmeter/5.1.1/bin/jmeter 
+ /usr/local/Cellar/jmeter/5.1.1/libexec/backups/ (20 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/bin/ (179 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/docs/ (2019 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/extras/ (20 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ (141 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/licenses/ (47 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/printable_docs/ (71 files)
+ /usr/local/Cellar/jmeter/5.1.1/libexec/serveragent/ (13 files)
+ ``
 
 打开安装文件夹
 
@@ -68,12 +59,11 @@ ok，现在运行中文版的 jmeter 吧
 ## 开发自己的jar包
 新建gradle工程，引入必须的jar包
 
-`
+``
 implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_java', version: '5.1.1'
 implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_core', version: '5.1.1'
-// TCP sample
 implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_tcp', version: '5.1.1'
-`
+``
 
 ## 应用自己的jar包
 

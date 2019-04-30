@@ -45,11 +45,8 @@ ok，现在运行中文版的 jmeter 吧
     <td>/usr/local/Cellar/jmeter/5.1.1/libexec/bin/jmeter</td>
   </tr>
   <tr>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
       <td>/usr/local/Cellar/jmeter/5.1.1/bin/jmeter</td>
-    </tr>
-  
+  </tr>
   <tr>
     <td>win</td>
     <td>cmd输入 jmeter</td>

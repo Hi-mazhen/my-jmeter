@@ -8,7 +8,8 @@
 
 返回
 
-``/usr/local/Cellar/jmeter/5.1.1/bin/jmeter 
+``
+/usr/local/Cellar/jmeter/5.1.1/bin/jmeter 
  /usr/local/Cellar/jmeter/5.1.1/libexec/backups/ (20 files)
  /usr/local/Cellar/jmeter/5.1.1/libexec/bin/ (179 files)
  /usr/local/Cellar/jmeter/5.1.1/libexec/docs/ (2019 files)
@@ -69,8 +70,11 @@ implementation group: 'org.apache.jmeter', name: 'ApacheJMeter_tcp', version: '5
 
 gradle工程 build -> 生成*。jar文件 -> copy该文件到
 
-`mac： /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ext
-win：安装路径\bin\ext
-`
+``
+mac： /usr/local/Cellar/jmeter/5.1.1/libexec/lib/ext  
+``
+
+``win：安装路径\bin\ext
+``
 
 重新启动jmeter生效

@@ -1,6 +1,6 @@
 /**
  * Copyright (C), 2016-2019, 码农团
- * ClassName: TCPJavaSamplerClient
+ * ClassName: TCPTestJavaSamplerClient
  * Author:   hthn
  * Date:     2019-04-29 20:37
  * Description:
@@ -30,8 +30,8 @@ import java.net.Socket;
  * @create 2019-04-29
  * @since 1.0.0
  */
-public class TCPJavaSamplerClient extends AbstractJavaSamplerClient {
-    private Logger log = LoggerFactory.getLogger(TestStringLengthJavaSamplerClient.class);
+public class TCPTestJavaSamplerClient extends AbstractJavaSamplerClient {
+    private Logger log = LoggerFactory.getLogger(TCPTestJavaSamplerClient.class);
 
     private static String host = null;
     private static int port;
